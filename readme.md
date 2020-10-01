@@ -21,7 +21,7 @@ Best part of brush is, it comes with 2 different UI: one for landing page and ot
 - [Node.js] (https://nodejs.org/en/)
 
 ------------------
-### Jump Start your app today...
+### Jump And Start Making your app today...
 Prerequisites:
 - php 5.6 or above
 - node.js 4 or above
